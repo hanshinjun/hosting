@@ -1,0 +1,16 @@
+img{
+    height: 300px;
+    width: 300px
+}
+
+div{
+    height: 20em;
+    text-align: center;
+}
+
+a{
+    line-height: 10px;
+    text-decoration: none;
+    font-size: larger;
+    background-color: gray;
+}
